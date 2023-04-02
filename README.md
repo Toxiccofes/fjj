@@ -1,5 +1,4 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Ishh!&center=true&width=380&height=45"> </p>
 
 **I'm Piyush a developer.**<br>
 - I own NaNo discord bot.<br>
